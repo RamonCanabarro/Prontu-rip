@@ -1,0 +1,5 @@
+Fazer login no phpstorm(pode usar outra ide se preferir) baixar laravel, composer.
+
+Pesquisar no link https://www.w3schools.com/: html, bootstrap, css, sql, php(tutorials, references).
+trazer paginas de login, login erro, tabela de listagem, paginas com rodade e cabecalho, menu opções.
+nao precisa ter valores, listar direto do banco, pode ser paginas separadas.
